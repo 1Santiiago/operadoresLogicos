@@ -1,0 +1,2 @@
+# operadoresLogicos
+Created with CodeSandbox
